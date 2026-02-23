@@ -43,7 +43,7 @@ export default function MobileJoystick({ onDelta }: MobileJoystickProps) {
   }, [onDelta]);
 
   return (
-    <div className="fixed bottom-8 left-8 z-40 md:hidden select-none">
+    <div className="fixed bottom-8 right-10 z-40 md:hidden select-none">
       {/* Base */}
       <div
         ref={baseRef}

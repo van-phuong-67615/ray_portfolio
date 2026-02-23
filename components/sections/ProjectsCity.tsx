@@ -159,7 +159,7 @@ export default function ProjectsCity({
       style={{ left: sectionStart, width: "2300px", height: "100%" }}
     >
       {/* Zone label */}
-      <div className="absolute top-8 left-1/2 -translate-x-1/2">
+      <div className="absolute top-12 left-1/2 -translate-x-1/2">
         <div
           className="font-pixel text-center px-4 py-2 rounded"
           style={{
