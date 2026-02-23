@@ -42,7 +42,7 @@ export const projects = [
     id: 1,
     name: "HRIS 2.0",
     subtitle: "Human Resources Internal System",
-    period: "07/2024 – Present",
+    period: "07/2024 – 10/2025",
     description:
       "A management system with upgraded interface and logic for internal HR operations. Features include employee management, leave tracking, and performance reviews.",
     tech: ["React JS", "Redux", "FluentUI", "C#"],
