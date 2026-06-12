@@ -7,7 +7,7 @@ export const personalInfo = {
   phone: "0708059303",
   location: "Hoa Vang, Da Nang",
   summary:
-    "Over 3 years of experience in front-end development specializing in ReactJS, Redux, and Context API. Proficient in JavaScript (ES6+), HTML5, CSS3, and building scalable web applications. Familiar with back-end technologies like Golang and Node.js.",
+    "Over 4 years of experience in front-end development specializing in ReactJS, Redux, and Context API. Proficient in JavaScript (ES6+), HTML5, CSS3, and building scalable web applications. Familiar with back-end technologies like Golang and Node.js.",
   additionalInfo: [
     "🏆 Employee of the Year 2021 – NiftyJS Technology",
     "🥇 First Place – Information Technology Research Contest",
@@ -34,7 +34,13 @@ export const skills = [
   { name: "PostgreSQL", color: "#4169E1", category: "Database" },
   { name: "Docker", color: "#2496ED", category: "DevOps" },
   { name: "Git", color: "#F05032", category: "Tools" },
-  { name: "English", color: "#34D399", category: "Language", description: "Upper-Intermediate (B2). Comfortable reading technical documentation, writing code comments and commit messages in English, and communicating in international team settings." },
+  {
+    name: "English",
+    color: "#34D399",
+    category: "Language",
+    description:
+      "Upper-Intermediate (B2). Comfortable reading technical documentation, writing code comments and commit messages in English, and communicating in international team settings.",
+  },
 ];
 
 export const projects = [
